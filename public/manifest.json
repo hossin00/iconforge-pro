@@ -1,0 +1,27 @@
+{
+  "name": "IconForge Pro",
+  "short_name": "IconForge",
+  "description": "Create and export custom icons for any platform.",
+  "start_url": "/iconforge-pro/",
+  "scope": "/iconforge-pro/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#f97316",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/iconforge-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/iconforge-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
